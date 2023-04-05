@@ -1,8 +1,6 @@
-﻿Chapter two
- Exercise: 1
-1.  This program calculates the product of three integers.
-2. int x, y, z, result; // declaring variables as int data type
-3. cout << "Enter three integers: "; // prompting user to enter three integers
+﻿This program calculates the product of three integers.
+int x, y, z, result; // declaring variables as int data type
+cout << "Enter three integers: "; // prompting user to enter three integers
 4. cin >> x >> y >> z; // reading three integers from keyboard and storing them in x, y, and z variables
 5. result = x * y * z; // computing the product of integers and assigning it to result variable
 6. cout << "The product is " << result << endl; // displaying product value
