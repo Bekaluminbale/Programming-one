@@ -12,8 +12,7 @@ int main() {
     if (age >= 18) {
         cout << "You are an adult." << endl; // This statement will be executed if age is greater than or equal to 18
     }
-    return 0;
-}
+   
 
 
 
@@ -23,9 +22,7 @@ int main() {
 //execute based on if the condition is true or false. 
 //example
 
-#include <iostream>
-using namespace std;
-int main() {
+
     int age; //variable declaration
      Cout<<"enter an age"; 
      cin>>age; //read an age from the user
@@ -35,9 +32,7 @@ int main() {
 else {
         cout << "You are not an adult." << endl; // This statement will be executed if age is less than 18
     }
-    return 0;
-}
-
+    
 
 
 //multi-way if-else statement 
@@ -45,9 +40,7 @@ else {
 
 //example
 
-#include <iostream>
-using namespace std;
-int main() {
+
     int age;
 cout <<"enter an age.";
 cin>>age;    
@@ -59,20 +52,15 @@ cin>>age;
     } else {
         cout << "You are a child." << endl; // This statement will be executed if both previous conditions are false
     }
-    return 0;
-}
-
+  
 
 
 
 //nested if statement 
-/*A nested if statement is an if statement that is placed inside another if statement as one of its possible outcomes or condition*/
+/* a nested if statement is an if statement that is placed inside another if statement as one of its possible outcomes or condition*/
 //example
 
-#include <iostream>
-using namespace std;
 
-int main() {
    int x = 10; //assigning a variable
    int y = 20; //declaring and assigning variable
 
