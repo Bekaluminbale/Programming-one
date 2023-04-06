@@ -1,13 +1,13 @@
 ﻿//Chapter 2 (Exercise)
-// Exercise: 1
+// Exercise: 1 (give a statement)
 
- This program calculates the product of three integers.
- int x, y, z, result; // declaring variables as int data type
- cout << "Enter three integers: "; // prompting user to enter three integers
- cin >> x >> y >> z; // reading three integers from keyboard and storing them in x, y, and z variables
- result = x * y * z; // computing the product of integers and assigning it to result variable
- cout << "The product is " << result << endl; // displaying product value
- return 0; // indicating successful termination of program
+ //this program calculates the product of three integers.
+ //int x, y, z, result; // declaring variables as int data type
+// cout << "Enter three integers: "; // prompting user to enter three integers
+// cin >> x >> y >> z; // reading three integers from keyboard and storing them in x, y, and z variables
+// result = x * y * z; // computing the product of integers and assigning it to result variable
+ //cout<< "The product is " << result << endl; // displaying product value
+ //return 0; // indicating successful termination of program
 
 //Exercise 2
 
@@ -45,15 +45,12 @@ int main() {
 else {
         cout << "The smaller number is " << num2 << endl;
     }
-    return 0;
-}
+    
 
 
 //Exercise 3
 
-#include <iostream>
-using namespace std;
-int main() {
+
     const double PI = 3.14; // Define the value of PI constant
     double radius, circumference; // Declare variables for storing radius and circumference
 
@@ -64,18 +61,12 @@ int main() {
 
     cout << "The circumference of the circle is " << circumference << endl; // Display the circumference of the circle
 
-    return 0;
-}
+    
 
 
 
 //Exercise 4
 
-#include <iostream>
-#include <cmath> // To use sqrt function
-using namespace std;
-
-int main() {
     double a, b, c, root1, root2, imaginary; //declaration
   
   cout << "Enter coefficients a, b and c: "; //prompt user to enter cofficients
