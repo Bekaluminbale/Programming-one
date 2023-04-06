@@ -6,9 +6,9 @@
 #include <iostream>
 using namespace std;
 int main() {
-    int age;
-        Cout <<"enter an age";
-        Cin>>age;
+    int age;//variable declaration
+        cout <<"enter an age";
+        cin>>age;
     if (age >= 18) {
         cout << "You are an adult." << endl; // This statement will be executed if age is greater than or equal to 18
     }
@@ -23,8 +23,8 @@ int main() {
 //example
 
 
-    int age; //variable declaration
-     Cout<<"enter an age"; 
+    
+     cout<<"enter an age"; 
      cin>>age; //read an age from the user
     if (age >= 18) {
         cout << "You are an adult." << endl; // This statement will be executed if age is greater than or equal to 18
@@ -41,7 +41,7 @@ else {
 //example
 
 
-    int age;
+    
 cout <<"enter an age.";
 cin>>age;    
     if (age >= 18) {
