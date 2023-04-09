@@ -1,4 +1,5 @@
-﻿//Group members name
+﻿
+//Group members name
 // Bekalu Minbale     Ru 0744/14
 // Umer Ismael
 //Nardos 
@@ -30,7 +31,7 @@ char letter = 'a';
 
 //two way if else
 
-char letter;
+
 
    cout << "Enter a letter: ";
    cin >> letter;
@@ -44,7 +45,7 @@ char letter;
 
 //multi way if else statement
 
-char letter;
+
 
    cout << "Enter a letter: ";
    cin >> letter;
@@ -127,7 +128,7 @@ char letter;
 
 //for loop
 
-char letter;
+
 
    for(letter = 'a'; letter <= 'e'; letter++) {
       cout << letter << endl;
@@ -136,7 +137,7 @@ char letter;
 
 
 //while loop
-   char letter = 'a';
+   letter = 'a';
 
    while(letter <= 'e') {
       cout << letter << endl;
@@ -145,7 +146,7 @@ char letter;
 
 //do while loop
 
-   char letter = 'a';
+   letter = 'a';
 
    do {
       cout << letter << endl;
@@ -235,7 +236,7 @@ else {
 //by if else
 
 
-  int a, b, c;
+  a, b, c;
   cout << "Enter three numbers: ";
   cin >> a >> b >> c;
   if (a < b && b < c) {
@@ -268,8 +269,5 @@ else {
   }
   return 0;
 }
-
-
-
 
 
