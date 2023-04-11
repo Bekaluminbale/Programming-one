@@ -1,6 +1,7 @@
 //exercise from the slide 
 ﻿
-	
+//exercise 1
+
 #include <iostream>
 using namespace std;
 int main() {
@@ -14,7 +15,7 @@ int main() {
   
 
 
-//2
+//exercise 2
 
   // using for loop and if statement
   for (int i = 0; i <= 100; i++) {
@@ -62,7 +63,7 @@ int main() {
   } while (k <= num);
   cout << "Factorial of " << num << " is " << fact << endl;
   
-//exercise 5
+//exercise 4
 
 
   int  count = 0;
