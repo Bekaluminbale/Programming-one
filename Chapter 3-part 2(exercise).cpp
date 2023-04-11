@@ -1,3 +1,4 @@
+//exercise from the slide 
 ﻿
 	
 #include <iostream>
