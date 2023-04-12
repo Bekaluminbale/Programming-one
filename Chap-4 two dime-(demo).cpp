@@ -1,4 +1,4 @@
-﻿Chap-4 two dime(demo)
+//﻿Chap-4 two dime(demo)
 
 //Declaration and intialization two dimensional array
 
