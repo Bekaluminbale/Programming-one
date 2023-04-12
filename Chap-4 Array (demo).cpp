@@ -1,4 +1,4 @@
-﻿Chap-4 Array (demo)
+//﻿Chap-4 Array (demo)
 // declaring an array of integers
 int my_array[] = {1, 2, 3, 4, 5};
 
