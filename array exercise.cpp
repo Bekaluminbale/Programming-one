@@ -40,6 +40,7 @@ int main() {
     cout << "Largest number in array: " << max_num << endl;
     
    
-
+return 0;
+}
 
 
